@@ -1,0 +1,73 @@
+  name: StandardTaxonomy
+  version: 1.0
+  extends:
+    name: SystemTaxonomy
+  terms:
+
+# Insight Management
+
+  # Subject/Object
+  - key: consumer
+    displayName: Consumer
+    abstract: true
+    isA:
+    - subject
+    - object
+  - key: employee
+    displayName: Employee
+    abstract: true
+    isA:
+    - subject
+    - object
+  - key: product
+    displayName: Product
+    abstract: true    
+    isA:
+    - subject
+    - object
+  - key: channel
+    displayName: Channel
+    abstract: true    
+    isA:
+    - subject
+    - object
+  - key: event
+    displayName: Event
+    abstract: true    
+    isA:
+    - subject
+    - object
+     
+    
+  # Window    
+  - key: window_type 
+    displayName: Window Type
+    unique: true    
+    abstract: true
+    isA:
+    - window
+  - key: event_window
+    displayName: Event Window
+    isA:
+    - window_type
+  - key: time_window
+    displayName: Time Window
+    isA:
+    - window_type
+
+  - key: window_period 
+    displayName: Window Period
+    unique: true     
+    abstract: true
+    isA:
+    - window
+  - key: single_period
+    displayName: Single Period
+    isA:
+    - window_period
+  - key: multiple_period
+    displayName: Multiple Period
+    isA:
+    - window_period
+    
+

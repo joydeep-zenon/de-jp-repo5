@@ -1,0 +1,5 @@
+displayName: DataPipelineDemo
+projectKey: DataPipelineDemo
+version: 1.0.0
+modules:
+- name: common
