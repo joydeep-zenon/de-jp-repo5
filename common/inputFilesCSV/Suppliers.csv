@@ -1,0 +1,501 @@
+﻿supplier_id,supplier_name,supplier_type,country,risk_rating,onboarding_date,active_flag
+S00001,Bennett-Harris,Manufacturer,SG,High,21-02-2021,Y
+S00002,"Hernandez, Molina and Zuniga",Manufacturer,SG,Low,15-09-2024,
+S00003,Washington-Baird,Manufacturer,US,Medium,17-08-2024,Y
+S00004,Navarro PLC,Manufacturer,UK,Medium,17-02-2022,
+S00005,"Alvarez, Deleon and Ramirez",,IN,Unknown,05-04-2025,
+S00006,"Boyd, Patel and Turner",Manufacturer,XX,Medium,06-11-2022,
+S00007,Nichols Inc,Service,IN,Medium,02-06-2021,N
+S00008,"Ramos, Fox and Sanchez",,US,High,22-11-2025,N
+S00009,"Turner, Wagner and Stewart",Manufacturer,SG,Unknown,27-09-2024,
+S00010,Estrada-Gonzalez,,US,High,23-12-2022,
+S00011,Martin Group,Service,UK,Medium,21-02-2022,
+S00012,Mcknight-Roberts,Distributor,XX,High,28-09-2021,Y
+S00013,Arellano-Jordan,Manufacturer,DE,High,21-12-2023,N
+S00014,"Sutton, West and Byrd",Service,IN,High,12-11-2023,N
+S00015,Richardson-Hanson,Service,SG,Low,10-11-2022,
+S00016,Johnson and Sons,Distributor,IN,Unknown,22-03-2023,N
+S00017,Johnson Group,Distributor,SG,High,18-03-2025,Y
+S00018,Smith Inc,Manufacturer,XX,High,20-05-2021,N
+S00019,Perez LLC,Distributor,UK,High,29-08-2022,Y
+S00020,Gonzalez-Thomas,,SG,Unknown,05-03-2025,Y
+S00021,Barnes LLC,Distributor,SG,High,23-05-2025,
+S00022,Franklin-Adams,,CN,Medium,14-11-2023,Y
+S00023,Phelps-Schroeder,Manufacturer,XX,Low,19-03-2022,Y
+S00024,Solis-Powers,Distributor,XX,Unknown,22-02-2021,
+S00025,"Navarro, Jones and Dickson",,UK,Unknown,02-11-2024,
+S00026,Richardson-Barton,Manufacturer,SG,Low,15-08-2021,
+S00027,Jackson-Johnson,Service,XX,High,23-03-2025,Y
+S00028,Martinez-Martinez,Distributor,DE,Low,29-09-2021,
+S00029,Peterson-Kelly,Service,UK,Medium,19-06-2024,
+S00030,Baldwin PLC,Service,XX,Medium,16-08-2023,Y
+S00031,"Anderson, Barnes and Arnold",Distributor,UK,Low,29-04-2023,
+S00032,"Jones, Snyder and Molina",Manufacturer,US,High,09-12-2023,N
+S00033,Gonzalez-Mcdaniel,Distributor,UK,Low,12-02-2022,Y
+S00034,"Silva, Schmidt and Rivera",Manufacturer,XX,Medium,15-02-2025,Y
+S00035,Ward Inc,Distributor,CN,Unknown,12-01-2025,Y
+S00036,"Williams, Duran and Acosta",Distributor,SG,High,01-07-2025,N
+S00037,Ritter-Richards,Service,DE,Unknown,26-07-2023,Y
+S00038,"Murphy, King and Woodard",Manufacturer,CN,Low,03-06-2022,
+S00039,Woods PLC,Distributor,US,Low,02-06-2021,
+S00040,Harris PLC,Distributor,US,Low,14-08-2021,N
+S00041,Harris-Reid,Distributor,CN,Unknown,08-07-2021,Y
+S00042,Patton-Mendoza,,IN,Unknown,26-08-2021,N
+S00043,"Gay, Holden and Ramirez",Manufacturer,SG,Unknown,19-08-2024,N
+S00044,"Chang, West and Williams",,XX,Low,03-02-2021,
+S00045,"Smith, Miller and Hicks",Manufacturer,US,Unknown,16-04-2025,
+S00046,"Walker, Hammond and White",Manufacturer,IN,Medium,02-01-2025,Y
+S00047,Davis-Rodriguez,Distributor,DE,Medium,18-07-2021,N
+S00048,Bradley Ltd,Manufacturer,DE,Low,16-02-2024,Y
+S00049,Barrett-Gutierrez,Manufacturer,US,Medium,05-03-2022,Y
+S00050,Price-Fuller,,IN,Unknown,28-10-2021,Y
+S00051,"Stephenson, Vincent and Keith",Manufacturer,DE,High,04-02-2024,N
+S00052,"Peterson, Reyes and Swanson",,IN,Medium,20-09-2021,N
+S00053,"Knight, Green and Jones",Manufacturer,UK,Low,21-05-2025,
+S00054,Johnson LLC,Manufacturer,UK,Unknown,30-04-2025,
+S00055,Cox LLC,Distributor,US,Low,16-06-2024,Y
+S00056,"Terry, Lopez and Carroll",Manufacturer,SG,Medium,16-12-2021,N
+S00057,Williams and Sons,Distributor,UK,Low,21-02-2021,
+S00058,Scott-Kim,Service,CN,Medium,25-04-2023,
+S00059,"Gonzalez, Rice and Rivas",Distributor,CN,Unknown,05-02-2023,Y
+S00060,Morgan-Holland,Service,DE,High,18-05-2025,Y
+,"Rodriguez, Bryant and Price",Manufacturer,US,Medium,27-01-2022,
+S00062,Norton-Collins,Service,US,Medium,06-04-2023,N
+S00063,Miller-Short,,XX,High,11-01-2025,
+S00064,Nelson-Cunningham,Manufacturer,SG,High,24-12-2024,
+S00065,Zimmerman Inc,Distributor,CN,Low,11-01-2022,Y
+S00066,Gutierrez-Velasquez,Distributor,CN,High,22-06-2024,
+S00067,Mcgrath-Hendricks,Service,IN,High,14-06-2021,
+S00068,Campbell LLC,Manufacturer,US,Unknown,29-06-2022,N
+S00069,Harmon and Sons,Service,XX,Medium,01-01-2026,
+S00070,Leblanc Ltd,Distributor,SG,Unknown,22-02-2023,
+S00071,Orr and Sons,Manufacturer,US,Low,27-02-2021,
+S00072,Hernandez-Anderson,Manufacturer,XX,High,15-12-2023,
+S00073,Kaiser Ltd,,IN,Low,02-11-2021,N
+S00074,Peterson PLC,Manufacturer,CN,Medium,01-09-2022,
+S00075,Henry and Sons,Manufacturer,CN,Unknown,20-11-2022,
+S00076,Pearson Inc,Distributor,XX,Medium,26-04-2023,Y
+S00077,Rodriguez-Calderon,Manufacturer,IN,High,12-03-2025,N
+S00078,Mitchell PLC,Distributor,CN,Medium,04-08-2025,
+S00079,Watson-Henderson,Manufacturer,XX,Unknown,12-08-2023,Y
+S00080,"Jones, Howard and Espinoza",,CN,High,20-05-2022,Y
+S00081,"Figueroa, Erickson and Reilly",Distributor,DE,High,24-07-2024,N
+S00082,Miller and Sons,Service,CN,Unknown,11-09-2025,
+S00083,Burke Inc,Service,US,Low,13-02-2024,N
+S00084,Wagner PLC,Service,US,Low,12-04-2023,
+S00085,Wilson-Butler,Service,DE,Low,27-11-2024,N
+S00086,Evans Group,Distributor,CN,Low,20-12-2022,
+S00087,"Shelton, Smith and Washington",Distributor,CN,Unknown,10-10-2022,Y
+S00088,"Wright, Hanson and Smith",Service,UK,High,09-08-2025,
+S00089,Snyder and Sons,Service,UK,High,02-11-2023,
+S00090,"Barron, Gates and Bowers",,SG,High,02-06-2022,
+S00091,"Williams, Brown and Morgan",,SG,Unknown,26-11-2025,
+S00092,Lopez-Richardson,Distributor,UK,High,03-10-2025,N
+S00093,Hayden Inc,Manufacturer,CN,High,09-04-2024,Y
+S00094,Williams-Wagner,Service,DE,Unknown,15-04-2023,N
+S00095,Rowland LLC,,XX,Medium,09-07-2025,
+S00096,Juarez-Lopez,Service,US,Medium,29-03-2022,
+S00097,"Adams, Morrison and Foster",Distributor,IN,Low,29-09-2022,Y
+S00098,Myers-Newton,,UK,Low,16-04-2022,N
+S00099,"Perkins, Davis and Schmidt",Distributor,SG,Unknown,05-07-2023,N
+S00100,"Perez, Martinez and Owens",Distributor,SG,Low,22-03-2022,Y
+S00101,Gonzalez-Johnson,Distributor,IN,Unknown,20-04-2022,Y
+S00102,Finley-Garcia,Manufacturer,DE,Medium,07-05-2022,N
+S00103,"Perkins, Schwartz and Richard",Service,XX,Unknown,21-04-2022,
+S00104,Walker PLC,,XX,Unknown,27-05-2023,Y
+S00105,"Kim, Bailey and Savage",,DE,High,29-01-2025,Y
+S00106,"Molina, Cochran and Gray",Service,XX,Unknown,13-06-2022,
+S00107,Hanson-Aguilar,,US,High,13-02-2022,Y
+S00108,Warren-Blake,Service,UK,Low,04-08-2025,Y
+S00109,Blackwell and Sons,,SG,Medium,01-05-2022,
+S00110,Morales-Simon,,DE,High,22-02-2022,
+S00111,Young PLC,Manufacturer,IN,Unknown,11-07-2025,N
+S00112,Stanton-Lewis,Manufacturer,XX,Unknown,25-10-2022,N
+,Henderson-Gray,Service,CN,Unknown,27-04-2025,N
+S00114,Warner Inc,Distributor,DE,Medium,07-01-2026,N
+S00115,Hammond-Howard,Manufacturer,DE,High,06-03-2025,
+S00116,Erickson Inc,,SG,Medium,14-03-2022,N
+S00117,Rice-Mann,Manufacturer,DE,Low,11-05-2025,Y
+S00118,Jackson Group,Distributor,XX,Unknown,27-04-2024,Y
+S00119,"Jones, Goodman and George",,CN,Medium,27-05-2021,N
+S00120,House Inc,,CN,Unknown,22-05-2024,N
+S00121,Reyes LLC,,US,Low,29-09-2024,N
+S00122,Townsend-Phillips,Manufacturer,XX,Low,04-07-2023,Y
+S00123,"Moore, Mayer and Khan",Distributor,XX,Low,17-06-2024,
+S00124,Kim-King,Distributor,DE,Low,11-09-2022,
+S00125,"Gardner, Evans and Wright",,SG,High,29-07-2021,N
+S00126,Miranda-Griffin,Manufacturer,XX,Medium,21-09-2022,N
+S00127,Martinez Inc,Manufacturer,CN,Unknown,26-12-2024,N
+S00128,Wise Group,Distributor,US,Medium,14-01-2024,Y
+S00129,Rowland PLC,Service,XX,Low,15-11-2023,
+S00130,"Fernandez, Garcia and Moore",Service,UK,Unknown,29-08-2022,
+S00131,Lynch-Andrews,Service,US,Unknown,26-07-2023,N
+S00132,Grimes LLC,Service,SG,Unknown,04-04-2023,
+S00133,Vaughn-Fields,Distributor,SG,High,02-03-2023,
+S00134,"Johnson, Lewis and Sloan",,DE,Unknown,05-05-2025,
+S00135,Thompson-Hunter,Service,XX,Medium,19-08-2021,Y
+S00136,Bush-Hawkins,,IN,Unknown,12-10-2025,
+S00137,Smith Ltd,,CN,Low,28-01-2023,N
+S00138,"Morton, Craig and Hawkins",Distributor,DE,Medium,30-07-2022,N
+S00139,Leach and Sons,Service,CN,High,13-01-2026,
+,"Garcia, Sullivan and Williams",Distributor,US,Medium,16-05-2022,
+S00141,Farrell Inc,Distributor,SG,Unknown,10-06-2023,
+S00142,Mack-Wallace,,XX,Low,04-01-2022,Y
+S00143,Logan Inc,,SG,Medium,08-06-2021,N
+S00144,Thompson-Robertson,Service,DE,High,17-01-2023,N
+S00145,"Bailey, Martinez and Collier",Service,CN,Unknown,16-10-2025,N
+S00146,Hoover PLC,Distributor,US,Medium,27-05-2024,N
+S00147,Daniels-Cisneros,Distributor,IN,Medium,12-09-2024,
+S00148,Noble PLC,Service,US,Medium,28-11-2023,N
+S00149,"Nguyen, Martinez and Stevenson",Distributor,CN,Low,13-10-2025,
+S00150,"Watkins, Moore and Fritz",Service,US,Low,23-11-2022,
+S00151,"Lawson, Gutierrez and Simpson",Distributor,SG,Unknown,10-01-2025,Y
+S00152,Bernard PLC,Service,DE,Unknown,02-11-2023,N
+S00153,Wheeler-Richardson,Manufacturer,CN,Unknown,30-08-2025,Y
+S00154,Spears-Ross,,DE,Low,10-02-2021,
+S00155,Haas Group,Manufacturer,IN,Medium,24-09-2021,
+S00156,"Chase, Avery and Davis",Manufacturer,IN,Low,29-10-2021,
+S00157,"Page, Jacobson and Walker",Distributor,XX,Unknown,16-07-2021,N
+S00158,Mcmahon-Barber,Service,XX,Unknown,15-09-2024,N
+S00159,Jenkins and Sons,Manufacturer,UK,Low,15-10-2022,Y
+S00160,Roberts-Moore,Service,SG,Low,01-05-2023,Y
+S00161,Garcia-Rodriguez,Manufacturer,IN,Low,15-02-2021,N
+S00162,Williams-Harper,,CN,Low,25-11-2025,Y
+S00163,Haney-Reid,Service,SG,Unknown,15-05-2021,Y
+S00164,Johnson-Stone,Service,XX,Medium,01-03-2024,N
+S00165,"Jones, Kim and Kelly",Distributor,SG,Medium,12-02-2024,N
+S00166,Richardson Inc,Manufacturer,US,Medium,05-04-2025,N
+S00167,Figueroa and Sons,Service,DE,Low,16-04-2022,N
+S00168,Miller LLC,,CN,Unknown,23-09-2022,N
+S00169,"Brennan, Gill and Campbell",Manufacturer,DE,High,04-08-2022,
+S00170,Carpenter-Foster,Manufacturer,IN,Low,18-07-2024,
+S00171,Buchanan and Sons,Manufacturer,XX,Medium,31-08-2023,N
+S00172,Mckinney-Adams,,CN,Medium,01-09-2025,
+S00173,Lee and Sons,,US,Unknown,13-12-2025,N
+S00174,Stanley Ltd,Service,SG,Low,18-11-2025,Y
+S00175,Robinson-Cox,,CN,Unknown,19-06-2021,
+S00176,Morgan PLC,Manufacturer,CN,High,08-08-2022,N
+S00177,Smith LLC,,XX,Low,25-05-2021,
+S00178,"Walton, Taylor and Brock",,DE,Low,25-05-2023,Y
+S00179,"Barrera, Larson and Woodward",,SG,Unknown,22-05-2025,Y
+S00180,Montgomery-Taylor,Distributor,CN,Unknown,01-09-2022,
+S00181,Russo PLC,Manufacturer,SG,Medium,16-08-2025,
+S00182,Thompson Group,Manufacturer,UK,Unknown,16-10-2023,Y
+S00183,"Rush, Richard and Johnson",Manufacturer,DE,Low,08-06-2021,
+S00184,"Oconnell, Conner and Adams",,SG,High,11-01-2026,
+S00185,"Reynolds, Liu and Stokes",,XX,Unknown,04-11-2022,N
+S00186,Terry Inc,Distributor,DE,Medium,09-01-2024,
+S00187,Freeman and Sons,Distributor,XX,Low,02-11-2025,N
+S00188,Hobbs-Navarro,,CN,High,15-08-2025,Y
+S00189,Maldonado Inc,Service,XX,Unknown,01-02-2022,Y
+S00190,"Wright, Simpson and Hampton",,CN,High,25-11-2025,
+S00191,"Madden, Bass and Howard",,DE,High,24-02-2021,Y
+S00192,Andrews Ltd,Distributor,UK,Unknown,07-04-2023,Y
+S00193,"Moore, Moore and Jones",,US,High,26-04-2023,
+S00194,Hodges and Sons,,DE,Medium,25-09-2021,N
+S00195,Hart-Wells,Distributor,UK,High,12-04-2021,Y
+S00196,Melendez-Heath,,US,Unknown,20-07-2024,Y
+S00197,Garcia-Arias,,XX,Medium,02-04-2024,Y
+S00198,Chandler-Reed,Service,CN,Unknown,14-07-2023,
+S00199,"Martin, Sutton and Rocha",Service,XX,Unknown,30-12-2022,N
+S00200,Horton Inc,,XX,Low,02-12-2021,
+S00201,"Parker, Webb and Bryant",Service,IN,Low,30-01-2023,N
+S00202,"Chavez, Alexander and Davis",Manufacturer,DE,Medium,08-10-2022,
+S00203,"Gray, Reynolds and Carson",Manufacturer,US,High,13-02-2023,Y
+S00204,Ramos-Alexander,Service,DE,Medium,18-09-2023,Y
+S00205,Walker PLC,Distributor,IN,Medium,12-04-2024,Y
+S00206,Martinez-Cooke,,UK,Medium,14-03-2021,N
+S00207,"Mcdonald, Leon and Williams",Distributor,IN,Unknown,28-12-2022,
+S00208,"Fisher, Greene and Johnson",Service,SG,Low,21-06-2025,N
+S00209,"Craig, Bush and Rivera",Distributor,US,Unknown,16-09-2023,N
+S00210,Smith-Robinson,Service,SG,Unknown,31-08-2025,
+S00211,"Jones, Rodriguez and Reyes",Service,IN,Unknown,28-02-2025,N
+S00212,Gonzalez PLC,,UK,High,07-04-2021,
+S00213,Johnson PLC,Service,US,Unknown,14-02-2025,N
+,Nguyen and Sons,Manufacturer,UK,Unknown,03-01-2023,N
+S00215,Cannon-Russell,Distributor,UK,High,23-04-2023,Y
+S00216,"Mccoy, Nguyen and Humphrey",Service,SG,Medium,19-01-2025,
+S00217,Davidson-Schaefer,Manufacturer,CN,Unknown,29-11-2024,Y
+S00218,Bailey PLC,Distributor,US,High,27-01-2023,N
+S00219,Sherman-Williamson,Distributor,IN,Medium,20-12-2022,
+S00220,"Harrell, Hayes and Garcia",Service,UK,High,10-08-2025,Y
+S00221,"Dixon, Cook and Dominguez",,XX,High,01-12-2023,
+S00222,"Miller, Parks and Davidson",Manufacturer,DE,Low,27-08-2022,Y
+S00223,Lewis-Lewis,Distributor,XX,Unknown,26-01-2022,
+S00224,Castro-Miller,,US,High,16-07-2022,
+S00225,Mcdonald Ltd,Service,SG,High,21-12-2021,
+S00226,Madden-Munoz,Service,US,Medium,09-06-2025,N
+S00227,"Charles, Martin and Watson",Service,UK,Medium,08-03-2024,
+S00228,"Ward, Parrish and Leonard",,SG,High,13-11-2025,
+S00229,Daniels LLC,Distributor,US,Low,12-05-2024,N
+S00230,Taylor-Ortiz,Manufacturer,US,Medium,17-05-2024,
+S00231,"Sanchez, Gonzales and Smith",,CN,Unknown,04-06-2022,
+S00232,Jefferson-Hall,Distributor,DE,Low,14-08-2021,N
+S00233,Hill Ltd,Service,US,High,13-11-2022,Y
+S00234,"Ball, Erickson and Brown",Distributor,XX,High,18-01-2023,Y
+S00235,Petersen-Campbell,Service,UK,High,30-06-2022,Y
+S00236,Morales PLC,Distributor,US,Unknown,22-10-2021,Y
+S00237,Bruce Inc,Manufacturer,US,High,23-05-2025,Y
+S00238,Reyes Group,Distributor,US,Medium,07-06-2021,
+S00239,Dennis PLC,Distributor,CN,Medium,21-01-2026,
+,Hahn-Huynh,Distributor,IN,High,20-01-2024,Y
+S00241,Johnson Inc,Manufacturer,IN,Low,23-11-2023,N
+S00242,Schneider-Rhodes,Distributor,UK,High,21-08-2021,Y
+S00243,Griffin and Sons,Manufacturer,IN,Unknown,18-08-2023,
+S00244,Daniels LLC,Manufacturer,DE,Unknown,30-09-2025,N
+S00245,Cox PLC,Manufacturer,DE,Medium,08-04-2025,
+S00246,Dean-Pace,Service,DE,Low,03-12-2024,Y
+S00247,Medina Group,,DE,Low,30-12-2022,N
+S00248,Hernandez Ltd,,US,Low,05-11-2024,N
+S00249,"Hall, Jenkins and Scott",Manufacturer,IN,High,26-03-2021,
+S00250,Ayala Inc,Service,DE,High,07-01-2023,N
+S00251,"Fitzpatrick, Green and Taylor",,US,Low,06-03-2024,
+S00252,Fernandez and Sons,Distributor,DE,Unknown,16-11-2021,Y
+S00253,Hernandez PLC,,DE,Unknown,23-10-2024,
+S00254,Woods-Jackson,,CN,High,23-02-2025,N
+S00255,Villanueva Ltd,,US,Low,19-08-2024,Y
+S00256,"Burns, Freeman and Nelson",Manufacturer,SG,High,11-07-2021,Y
+S00257,Lewis-Green,Service,SG,Low,14-08-2021,N
+S00258,Hoffman-Martinez,,XX,Low,12-06-2022,N
+S00259,"Jackson, Miller and Hernandez",Service,US,Medium,20-06-2024,Y
+S00260,Irwin-Colon,Distributor,XX,Low,18-04-2021,N
+S00261,Arroyo Group,Service,US,High,26-07-2025,
+S00262,Gallagher-Shea,,XX,Low,06-03-2025,
+S00263,Brewer-Perkins,Service,US,Medium,12-08-2024,N
+S00264,"Johnson, Richardson and Brown",Service,CN,High,04-04-2022,Y
+S00265,Cummings LLC,Distributor,UK,Unknown,17-07-2021,Y
+S00266,Thompson-Frazier,Manufacturer,US,Medium,20-03-2024,N
+S00267,Serrano-Watts,Service,IN,High,17-05-2021,N
+S00268,Knight LLC,Manufacturer,US,Medium,30-11-2023,Y
+S00269,Brooks-Barrett,Manufacturer,SG,Low,06-11-2022,N
+S00270,Garcia-Russell,,DE,Unknown,09-03-2023,N
+S00271,"Patel, Martin and Franklin",Manufacturer,CN,Unknown,13-01-2025,Y
+S00272,Lamb and Sons,,UK,High,10-10-2025,Y
+S00273,Rivera Ltd,Manufacturer,US,Medium,11-08-2021,N
+S00274,"Jimenez, Reyes and Walsh",Distributor,XX,High,25-04-2021,N
+S00275,"Reid, Willis and Jacobson",Manufacturer,DE,Unknown,08-07-2024,Y
+S00276,"White, Kemp and Kent",Distributor,UK,High,22-11-2021,Y
+S00277,"Williams, Phillips and Hall",Manufacturer,DE,Low,22-04-2025,N
+S00278,Kline LLC,Service,UK,Unknown,29-04-2021,
+S00279,Morton-Noble,,CN,Low,03-11-2024,N
+S00280,"Long, Hood and Lang",Service,IN,Unknown,01-03-2022,
+S00281,"Foster, Nelson and Boyle",Manufacturer,DE,Low,22-04-2021,Y
+S00282,"Cunningham, Hopkins and White",,UK,Low,19-07-2022,N
+S00283,Cole Group,Service,IN,High,24-01-2023,Y
+S00284,Gibson-Fisher,Manufacturer,UK,Medium,04-02-2025,N
+S00285,"Collins, Joseph and Rodriguez",Distributor,IN,Low,24-09-2021,Y
+S00286,"Wheeler, Carroll and Rojas",Distributor,UK,Medium,18-12-2021,
+S00287,Diaz-Phillips,,DE,Unknown,16-01-2023,
+S00288,Serrano-Cooper,Service,XX,High,04-06-2025,Y
+S00289,Stanton and Sons,,DE,High,08-05-2025,N
+S00290,"Anderson, Johnston and Mccall",Service,UK,Low,17-04-2025,N
+S00291,Lee PLC,Manufacturer,US,High,02-08-2025,N
+S00292,Davis-Garcia,Manufacturer,UK,Unknown,25-03-2025,N
+S00293,Williams-Murphy,Manufacturer,DE,Medium,02-04-2023,N
+S00294,Ross-Peters,Distributor,US,Unknown,14-04-2024,Y
+S00295,"Yoder, Friedman and Davis",Service,SG,Low,31-07-2025,
+S00296,"Allen, Lopez and Chang",Manufacturer,IN,Unknown,24-10-2024,N
+S00297,Johnson-Crane,Distributor,CN,High,28-12-2023,N
+S00298,Kennedy Ltd,Service,SG,Low,12-02-2021,
+S00299,Clark and Sons,Manufacturer,CN,Low,27-05-2021,
+S00300,Vasquez-Campbell,Service,CN,Medium,25-02-2022,N
+S00301,Lawrence Group,Distributor,CN,High,14-11-2023,
+S00302,Flores-Cunningham,,IN,Low,30-09-2022,N
+S00303,Cooper-Garcia,Service,XX,Medium,24-08-2021,
+S00304,"Williams, Frazier and Rice",Manufacturer,SG,Unknown,10-04-2023,
+S00305,"Lopez, Munoz and Rodriguez",Service,CN,Medium,14-05-2025,Y
+S00306,Mitchell LLC,,IN,Medium,24-06-2025,Y
+S00307,Page Inc,Service,XX,Low,21-08-2021,
+S00308,"Ball, Barton and Barber",Manufacturer,SG,High,06-12-2024,
+S00309,"Hensley, Alexander and Mendoza",,IN,Medium,20-03-2022,Y
+S00310,Walsh-Branch,Distributor,SG,Unknown,06-09-2023,Y
+S00311,"Thomas, Trujillo and Hunter",Distributor,DE,High,23-08-2024,
+S00312,Yates Ltd,Distributor,UK,Medium,31-01-2024,N
+S00313,Anderson-Dominguez,,XX,Medium,16-07-2024,N
+S00314,"Meza, Jones and Stewart",,DE,High,02-01-2025,N
+S00315,Mercado Ltd,,IN,Medium,24-12-2024,
+S00316,"Williams, Williams and Shepard",Service,US,Unknown,23-09-2024,N
+S00317,"Goodwin, Davis and Fitzgerald",Manufacturer,SG,Low,15-11-2024,N
+S00318,Welch PLC,Distributor,CN,Unknown,18-03-2023,
+S00319,Hernandez-Johnson,,US,Medium,24-09-2021,N
+S00320,"Sawyer, Mann and Wade",Manufacturer,DE,Low,07-03-2021,N
+S00321,Berry Ltd,Distributor,DE,Low,12-11-2024,N
+S00322,Lee-Sanchez,Service,US,High,25-04-2024,Y
+S00323,Gutierrez Group,Service,XX,Unknown,11-03-2024,
+S00324,"Rhodes, Arnold and Perez",,DE,Low,28-01-2021,Y
+,Faulkner Ltd,Distributor,XX,Medium,11-06-2025,
+S00326,Rivera and Sons,,US,High,16-08-2024,Y
+S00327,Hall LLC,Manufacturer,IN,Unknown,22-12-2024,
+S00328,"Barnes, Snyder and Harris",,US,Low,14-06-2024,N
+S00329,Hamilton Ltd,Manufacturer,SG,Medium,19-08-2024,
+S00330,Harris Group,,US,High,08-07-2021,Y
+S00331,"Watkins, Lane and Miller",Distributor,SG,Low,14-01-2022,
+S00332,Williams-Brown,Manufacturer,UK,Low,24-03-2023,N
+S00333,"Wright, Allison and Cruz",Manufacturer,SG,Unknown,11-09-2022,N
+S00334,Taylor Group,Manufacturer,CN,Low,11-11-2022,N
+S00335,Daniel and Sons,Manufacturer,XX,High,17-03-2024,Y
+S00336,Myers-Wolfe,Service,XX,Medium,16-03-2021,
+S00337,"Walters, King and Davis",,SG,Medium,09-05-2022,Y
+S00338,Hill PLC,,US,High,05-04-2025,Y
+S00339,Ward-Cruz,Distributor,US,High,28-12-2023,N
+S00340,Duran-Warner,,CN,Low,02-06-2023,
+S00341,"Wong, Bradley and Sullivan",Service,XX,Low,01-04-2021,
+S00342,Ayala Group,Manufacturer,XX,High,09-06-2024,N
+S00343,Jones Inc,,DE,High,15-10-2021,Y
+S00344,Foster-Cox,,CN,High,23-02-2023,Y
+S00345,Ortiz-Leonard,Manufacturer,DE,Medium,23-02-2023,
+S00346,"Le, Hall and Randall",Manufacturer,US,High,21-02-2025,
+S00347,"Cook, Buck and Lopez",,UK,Unknown,20-04-2024,Y
+S00348,Smith-Eaton,Service,DE,Low,20-02-2022,
+S00349,Smith Ltd,Service,UK,Unknown,04-05-2023,N
+S00350,Williams Inc,Manufacturer,US,Unknown,06-07-2024,N
+S00351,Oliver-Stevenson,Distributor,US,Medium,24-07-2024,
+S00352,"Wilson, Salazar and Goodwin",,US,Medium,06-05-2021,Y
+S00353,Barron-Harrington,Service,CN,Unknown,14-03-2021,
+S00354,Payne-Bush,Distributor,SG,Unknown,09-11-2025,N
+S00355,"Dixon, Stanley and Olson",Manufacturer,UK,Medium,04-01-2024,
+S00356,Jenkins-Kelly,Service,SG,High,05-12-2024,Y
+S00357,Shelton Ltd,Manufacturer,SG,Medium,09-09-2025,N
+S00358,Baldwin LLC,Manufacturer,CN,High,03-02-2025,
+S00359,"Young, Brady and Morgan",Service,SG,Unknown,19-09-2025,Y
+S00360,Phillips Inc,Manufacturer,DE,Medium,12-01-2026,
+S00361,Smith Inc,Manufacturer,XX,High,18-04-2021,
+S00362,Holmes-Long,Manufacturer,UK,High,02-08-2021,N
+S00363,"Boyd, Allen and Nelson",Distributor,XX,High,25-12-2022,
+S00364,Stewart-Morales,Distributor,XX,Medium,14-06-2023,Y
+S00365,"Richardson, Peters and Martin",Manufacturer,CN,High,20-07-2022,N
+S00366,Martin Inc,Distributor,UK,Low,05-01-2023,Y
+S00367,"Carlson, Williams and Williams",,UK,Unknown,08-11-2024,N
+S00368,"Lopez, Gonzales and Hughes",Manufacturer,IN,High,24-01-2025,
+S00369,Rodriguez-Ingram,,SG,High,11-08-2022,Y
+S00370,Bell-Walker,Distributor,XX,Medium,11-12-2022,N
+S00371,Richardson PLC,Manufacturer,XX,Low,30-07-2022,
+S00372,Bentley-Suarez,Distributor,IN,High,22-06-2024,
+S00373,Jenkins Inc,Service,XX,Low,09-05-2024,N
+S00374,Oconnor-Allison,Service,IN,High,11-04-2023,
+S00375,Kelley-Henry,Distributor,UK,Medium,05-04-2023,Y
+S00376,"Sampson, Olson and Hall",Service,XX,Low,29-12-2025,Y
+S00377,Rodriguez-Guzman,Service,SG,Medium,11-07-2021,
+S00378,Gilmore Ltd,Manufacturer,DE,High,14-10-2022,
+S00379,"Gonzales, Levine and Hudson",,IN,Unknown,03-01-2026,N
+S00380,Murray-Johnson,Manufacturer,IN,Unknown,20-09-2023,N
+S00381,West Group,Distributor,CN,Medium,01-11-2023,N
+S00382,Brown-Sullivan,Service,SG,High,19-02-2025,N
+S00383,"Garcia, Hernandez and Morse",Service,UK,Low,11-06-2025,N
+S00384,Ramirez-Patterson,Manufacturer,CN,Unknown,17-11-2024,Y
+S00385,Guzman LLC,Manufacturer,CN,Unknown,13-06-2024,
+S00386,Mueller Group,Distributor,XX,High,18-05-2023,
+S00387,Weber-Jones,Distributor,XX,Medium,21-05-2022,N
+S00388,"Knight, Jones and Hanson",,DE,High,23-01-2025,N
+S00389,"Guzman, Gomez and Porter",,UK,Unknown,13-08-2025,Y
+S00390,Schroeder PLC,Service,US,Low,29-05-2023,N
+S00391,Dickerson and Sons,,CN,Low,06-08-2024,Y
+S00392,Martin LLC,Service,SG,High,07-01-2023,N
+S00393,Cox-Bass,,US,Medium,19-01-2023,N
+S00394,Lee Group,Manufacturer,DE,Unknown,13-05-2024,
+S00395,Carter-Torres,Manufacturer,IN,Low,13-07-2021,N
+S00396,Stout-Drake,Service,UK,High,27-10-2024,Y
+S00397,Gutierrez Group,,UK,Low,23-11-2022,Y
+S00398,Cunningham-Warner,Service,XX,Unknown,08-03-2023,
+S00399,Cook-Burns,Distributor,CN,High,11-04-2024,Y
+S00400,"Perkins, Williams and Middleton",Service,UK,High,24-01-2021,
+S00401,Moss LLC,,SG,High,23-02-2025,N
+S00402,Oconnor-Holmes,Service,CN,Low,16-04-2024,N
+S00403,Nunez Group,Manufacturer,UK,Unknown,01-01-2026,N
+S00404,"Rodgers, Vega and Thompson",Distributor,SG,Low,24-03-2021,
+S00405,Ruiz-Simpson,,IN,Medium,16-02-2021,Y
+S00406,Gates LLC,Manufacturer,IN,Low,28-09-2024,N
+S00407,"Foley, Mooney and Bryant",Distributor,DE,Medium,28-02-2021,N
+S00408,Williams PLC,,XX,Low,17-08-2024,
+S00409,"Zuniga, Taylor and Diaz",Distributor,UK,High,16-03-2025,
+S00410,"Kirk, Webb and Gonzalez",,CN,Medium,10-07-2021,N
+S00411,"Wilkerson, Anderson and Cox",Service,UK,High,30-04-2025,
+S00412,"Forbes, Peters and Andrews",Service,UK,Unknown,07-03-2023,Y
+S00413,"Barker, Alvarez and Anderson",Service,UK,High,09-12-2023,Y
+S00414,Martinez-Lee,Service,XX,High,18-08-2024,
+S00415,"Parker, Ross and Campbell",,CN,Unknown,27-11-2022,N
+S00416,Jones-Yoder,Service,CN,Low,29-07-2021,
+S00417,"Dean, Jordan and Miller",,DE,High,15-02-2025,Y
+S00418,Stein-Allen,Service,SG,Low,08-04-2021,N
+S00419,Fletcher and Sons,Service,SG,Unknown,20-10-2025,Y
+S00420,Woods-Martinez,Service,UK,High,10-03-2025,Y
+S00421,Duarte-Palmer,Distributor,IN,Low,05-10-2022,
+S00422,Dyer-Fitzpatrick,Distributor,SG,Medium,01-06-2021,Y
+S00423,Graham-Johnson,Service,SG,Unknown,13-03-2022,Y
+S00424,Mcconnell PLC,Distributor,US,Medium,27-05-2021,N
+S00425,"Williams, Arnold and Singleton",,DE,Medium,19-02-2025,N
+S00426,Jensen Ltd,Manufacturer,XX,Low,10-08-2022,
+S00427,Marshall-Adkins,Manufacturer,IN,Unknown,14-11-2021,Y
+S00428,Miller Inc,Manufacturer,XX,Unknown,06-08-2023,N
+S00429,"Kirk, Lee and Lopez",Service,US,Low,04-11-2025,N
+S00430,"White, Hood and Rice",Manufacturer,CN,High,10-06-2025,N
+S00431,Jones-Howard,,IN,Unknown,26-11-2023,N
+S00432,"Weeks, Davidson and Hodge",Manufacturer,CN,Medium,08-07-2022,
+S00433,"Ferguson, Salazar and Vargas",Service,SG,Medium,20-05-2025,Y
+S00434,Brown-Moody,Service,UK,Medium,26-04-2021,Y
+S00435,Wilson-Martinez,,XX,Unknown,28-05-2023,
+S00436,"Davis, Wu and Davis",,SG,Low,22-01-2025,Y
+S00437,Green-Davis,,CN,Medium,27-08-2023,Y
+S00438,"Ortiz, Navarro and Moreno",Distributor,DE,High,07-06-2025,N
+S00439,Davis-Stevens,Manufacturer,CN,High,23-01-2022,
+S00440,"Franklin, Smith and Robbins",Manufacturer,DE,High,15-01-2022,Y
+S00441,"Fischer, Patterson and Chapman",Service,SG,Low,22-08-2023,
+S00442,Gill-Graves,Service,CN,Medium,01-12-2023,Y
+S00443,Long LLC,,IN,Unknown,03-06-2025,
+S00444,Melendez-Lindsey,Service,DE,Unknown,18-09-2021,
+S00445,"Smith, Esparza and Byrd",Distributor,XX,Medium,30-09-2021,
+S00446,"Johnson, Phillips and Torres",Manufacturer,UK,Unknown,15-06-2022,
+S00447,Woods LLC,Manufacturer,UK,Low,27-09-2025,Y
+S00448,Weaver-Gutierrez,Distributor,UK,Medium,04-11-2023,Y
+S00449,Arias Inc,,US,Medium,29-10-2024,
+S00450,Dean Ltd,Manufacturer,UK,Unknown,19-09-2024,Y
+S00451,"Fowler, Graham and Colon",,DE,Low,29-01-2025,
+S00452,Myers-Orr,Service,SG,Low,17-03-2024,N
+S00453,Robles Inc,Manufacturer,SG,Medium,07-03-2021,
+S00454,Campbell-Mills,,CN,Low,17-12-2023,
+S00455,Anderson-Brown,Manufacturer,DE,Low,20-06-2022,N
+S00456,"Bowen, Burke and Hobbs",Distributor,XX,Unknown,16-01-2022,N
+S00457,Davis LLC,,DE,Unknown,24-10-2022,N
+S00458,Moreno-Torres,Distributor,SG,High,02-02-2024,Y
+S00459,Dixon-Crawford,,UK,Medium,27-12-2025,
+S00460,Hernandez-Harris,Manufacturer,XX,Low,06-04-2022,N
+S00461,"Lee, Williams and Wright",,UK,Unknown,21-08-2025,Y
+S00462,"Williams, Morales and Barber",Service,IN,High,22-01-2023,Y
+S00463,"Mays, Johnson and Wheeler",Manufacturer,US,Unknown,08-08-2025,
+S00464,Thompson-Patton,Manufacturer,IN,Medium,12-02-2021,Y
+S00465,Martin PLC,Manufacturer,DE,Low,22-03-2024,Y
+S00466,Santos PLC,,DE,Medium,11-02-2021,
+S00467,"Sanchez, Watkins and Parsons",Manufacturer,IN,High,10-10-2022,Y
+S00468,"Pittman, Payne and Henson",Service,UK,High,21-02-2022,Y
+S00469,"Collins, Moreno and Green",Distributor,SG,Medium,20-06-2022,N
+S00470,Perry PLC,Manufacturer,UK,Medium,07-08-2021,
+S00471,Henson and Sons,,US,High,28-02-2023,
+S00472,"Rodriguez, Smith and Hines",Service,SG,Unknown,24-12-2025,N
+S00473,Burton LLC,,IN,Unknown,15-11-2021,Y
+S00474,Harper-Cohen,Service,XX,Medium,17-08-2024,N
+S00475,"Johnson, Rogers and Lynn",,DE,Medium,30-04-2021,N
+S00476,"Horne, Stephens and Oconnor",Distributor,CN,Low,01-07-2024,N
+S00477,Burke-Craig,Manufacturer,UK,Medium,19-07-2025,Y
+S00478,Rodriguez-Smith,Manufacturer,XX,Low,31-10-2025,Y
+S00479,Kemp-Guerra,Distributor,DE,Medium,20-02-2025,N
+S00480,"Caldwell, Shepherd and Sanchez",Manufacturer,IN,Medium,21-07-2022,
+S00481,"Mcintosh, Chen and Mays",,IN,Medium,15-08-2024,N
+S00482,"Garcia, West and Velasquez",Service,XX,High,06-04-2023,N
+S00483,Pena Ltd,Service,CN,High,25-06-2022,N
+S00484,Wiley-Smith,,DE,Low,01-04-2025,
+S00485,Wilson-Alexander,Service,IN,High,11-10-2024,N
+S00486,Jimenez LLC,Distributor,SG,Medium,03-06-2023,Y
+S00487,"Christian, Brown and Simpson",,CN,Medium,30-03-2022,Y
+S00488,"Hines, Hall and Parks",,UK,Medium,10-07-2024,N
+S00489,"Sims, Foster and Davidson",Service,CN,Unknown,06-02-2023,
+S00490,"Flowers, Hunter and Romero",,DE,Medium,19-06-2021,
+S00491,"Gardner, Ramirez and Schroeder",Distributor,IN,Unknown,17-01-2023,Y
+S00492,Cardenas-Edwards,Manufacturer,UK,Low,31-07-2024,Y
+S00493,Simmons Group,Manufacturer,XX,Low,05-01-2024,N
+S00494,Campbell-Mcdaniel,Distributor,US,Medium,11-05-2022,Y
+S00495,"Caldwell, Nunez and Lopez",,CN,Low,04-04-2025,
+S00496,"Gibson, Payne and Bryant",,SG,Unknown,04-11-2025,Y
+,"Barry, Zimmerman and Summers",,US,Low,29-01-2024,
+S00498,"Cameron, Nguyen and Smith",Service,US,Unknown,28-01-2023,Y
+S00499,Rowe-West,Manufacturer,UK,Medium,28-10-2022,Y
+S00500,Willis LLC,Service,XX,High,16-10-2024,N

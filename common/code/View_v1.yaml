@@ -1,0 +1,43 @@
+library: View_v1
+
+collections: 
+- name: Inventory_transaction_collection
+  header: true
+  format: delimitedFile
+  filePatterns:
+  - /data1/dataedge/2.0/solutions/datapipelinedemo/jess.lang_1769615971853/common/inputFilesCSV/Inventory_Transactions.csv
+  schema: Inventory_transaction_schema
+  includeSourceInfo: true
+schemas: 
+- name: Inventory_transaction_schema
+  columns:
+  - name: transaction_id
+    typeID: Common:String
+  - name: item_code
+    typeID: Common:String
+  - name: warehouse_code
+    typeID: Common:String
+  - name: transaction_type
+    typeID: Common:String
+  - name: quantity
+    typeID: Common:Integer
+  - name: transaction_date
+    typeID: "Common:Timestamp"
+views: 
+- name: Inventory_transaction_view
+  engine: SPARK
+  transformations:
+  - as: readCollection
+    operation: readCollection
+    enforceSchema: true
+    collection: Inventory_transaction_collection
+  - as: map
+    operation: map
+    source: readCollection
+    mappings:
+    - foreach:
+        exclude: {}
+        type: "Common:Any"
+        pattern: .*
+      transformations:
+      - operation: toUpper

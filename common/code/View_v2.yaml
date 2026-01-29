@@ -1,0 +1,61 @@
+library: View_v2
+
+collections: 
+- name: Invoice_Payments_Collection
+  header: true
+  format: delimitedFile
+  filePatterns:
+  - /data1/dataedge/2.0/solutions/datapipelinedemo/jess.lang_1769615971853/common/inputFilesCSV/Invoice_Payments.csv
+  schema: Invoice_Payments_Schema
+schemas: 
+- name: Invoice_Payments_Schema
+  columns:
+  - name: payment_id
+    typeID: Common:String
+  - name: invoice_id
+    typeID: Common:String
+  - name: payment_date
+    typeID: "Common:Timestamp"
+  - name: payment_method
+    typeID: Common:String
+  - name: payment_amount
+    typeID: Common:Float
+  - name: payment_status
+    typeID: Common:String
+
+views: 
+- name: Invoice_Payments_view
+  engine: SPARK
+  transformations:
+  - as: readCollection
+    operation: readCollection
+    enforceSchema: true
+    collection: Invoice_Payments_Collection
+  - as: map
+    operation: map
+    source: readCollection
+    mappings:
+    - foreach:
+        type: "Common:Any"
+        pattern: .*
+      transformations:
+      - operation: toUpper
+  - as: filterInsights
+    operation: filterInsights
+    language: EXPRESSION
+    source: map
+    filter: |-
+      #isnull(payment_status)
+      (PAYMENT_AMOUNT)<=0
+    rejectAs: Rejected_data
+  - as: assertRowCount
+    operation: assertRowCount
+    rowCount: 9
+    source: filterInsights
+  persist:
+    variables:
+    - name: readCollection
+    - name: map
+    - name: Rejected_data
+  outputDefinition:
+    type: delimited
